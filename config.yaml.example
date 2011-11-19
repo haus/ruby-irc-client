@@ -1,0 +1,11 @@
+---
+servername:       irc.example.com
+port:             6697
+nick:             nickname
+host:             localhost.localdomain
+username:         user
+realname:         Alex Doe
+usermode:         8
+ssl:              true
+autojoin:         "#chat,#help"
+nickserv:         password
